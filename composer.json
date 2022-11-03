@@ -2,7 +2,7 @@
     "name": "alanvista/php-legal-licenses",
     "description": "A utility to generate a Licenses file containing the full license text for every dependency in your project for legal purposes., fork for  https://github.com/Comcast/php-legal-licenses",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "version" : "1.00",
     "keywords": [
         "licenses",
