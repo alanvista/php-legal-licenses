@@ -1,6 +1,6 @@
 {
-    "name": "comcast/php-legal-licenses",
-    "description": "A utility to generate a Licenses file containing the full license text for every dependency in your project for legal purposes.",
+    "name": "alanvista/php-legal-licenses",
+    "description": "A utility to generate a Licenses file containing the full license text for every dependency in your project for legal purposes., fork for  https://github.com/Comcast/php-legal-licenses",
     "type": "library",
     "keywords": [
         "licenses",
@@ -9,15 +9,15 @@
         "utility",
         "binary"
     ],
-    "homepage": "https://github.com/Comcast/php-legal-licenses",
+    "homepage": "https://github.com/alansslva/php-legal-licenses",
     "license": "Apache-2.0",
     "authors": [{
-        "name": "Adam Marshall",
-        "email": "adam_marshall2@comcast.com",
+        "name": "Alan Santos",
+        "email": "alan.silva@vistasoft.com.br",
         "role": "lead"
     }],
     "support": {
-        "issues": "https://github.com/Comcast/php-legal-licenses/issues"
+        "issues": "https://github.com/alanvista/php-legal-licenses/issues"
     },
     "prefer-stable": true,
     "require": {
